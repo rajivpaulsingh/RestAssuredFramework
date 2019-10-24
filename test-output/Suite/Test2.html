@@ -1,0 +1,162 @@
+<html>
+<head>
+<title>TestNG:  Test2</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test2</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>5/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Aug 18 22:21:43 IST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>6 seconds (6005 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.TC02_SingleEmployeeGetTest.contentTypeTest()'><b>contentTypeTest</b><br>Test class: tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-1432687668" onClick='toggleBox("Output-1432687668", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1432687668" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1432687668">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/41208<br/>
+HTTP response created<br/>
+Content Type :text/html; charset=UTF-8<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>tests.TC02_SingleEmployeeGetTest@176b75f7</td></tr>
+<tr>
+<td title='tests.TC02_SingleEmployeeGetTest.headersTest()'><b>headersTest</b><br>Test class: tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-671536858" onClick='toggleBox("Output-671536858", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-671536858" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-671536858">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/41208<br/>
+HTTP response created<br/>
+Headers :Date=Sun, 18 Aug 2019 16:51:48 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=4a1b0b2f8906ab59569c5d71c611beb9; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Referrer-Policy=
+Content-Length=5
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>tests.TC02_SingleEmployeeGetTest@176b75f7</td></tr>
+<tr>
+<td title='tests.TC02_SingleEmployeeGetTest.responseTest()'><b>responseTest</b><br>Test class: tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-328314683" onClick='toggleBox("Output-328314683", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-328314683" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-328314683">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/41208<br/>
+HTTP response created<br/>
+Response :false<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>tests.TC02_SingleEmployeeGetTest@176b75f7</td></tr>
+<tr>
+<td title='tests.TC02_SingleEmployeeGetTest.statusCodeTest()'><b>statusCodeTest</b><br>Test class: tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-430119837" onClick='toggleBox("Output-430119837", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-430119837" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-430119837">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/41208<br/>
+HTTP response created<br/>
+Status Code :200<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>tests.TC02_SingleEmployeeGetTest@176b75f7</td></tr>
+<tr>
+<td title='tests.TC02_SingleEmployeeGetTest.statusLineTest()'><b>statusLineTest</b><br>Test class: tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-1117802526" onClick='toggleBox("Output-1117802526", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1117802526" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1117802526">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/41208<br/>
+HTTP response created<br/>
+Status Line :HTTP/1.1 200 OK<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>tests.TC02_SingleEmployeeGetTest@176b75f7</td></tr>
+</table><p>
+</body>
+</html>

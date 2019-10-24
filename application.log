@@ -1,0 +1,14 @@
+2019-08-18 23:06:08 INFO  Log:12 - ****************************************************************************************
+2019-08-18 23:06:08 INFO  Log:13 - ****************************************************************************************
+2019-08-18 23:06:08 INFO  Log:14 - $$$$$$$$$$$$$$$$$$$$$                 responseTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-18 23:06:08 INFO  Log:15 - ****************************************************************************************
+2019-08-18 23:06:08 INFO  Log:16 - ****************************************************************************************
+2019-08-18 23:06:08 INFO  Log:31 - Test Case Started
+2019-08-18 23:06:08 INFO  Log:31 - Loading Properties File
+2019-08-18 23:06:08 INFO  Log:31 - Properties File Loaded
+2019-08-18 23:06:09 INFO  Log:31 - Base URL :http://dummy.restapiexample.com/api/v1/
+2019-08-18 23:06:09 INFO  Log:31 - HTTP request created
+2019-08-18 23:06:09 INFO  Log:31 - Base URI :http://dummy.restapiexample.com/api/v1/delete/60567
+2019-08-18 23:06:11 INFO  Log:31 - HTTP response created
+2019-08-18 23:06:11 INFO  Log:31 - Response :{"success":{"text":"successfully! deleted Records"}}
+2019-08-18 23:06:11 INFO  Log:31 - Test Case Ended

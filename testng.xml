@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <!--<test thread-count="5" name="Test1">-->
+    <!--<classes>-->
+      <!--<class name="tests.TC01_AllEmpoyeesGetTest"/>-->
+     <!---->
+    <!--</classes>-->
+  <!--</test> &lt;!&ndash; Test &ndash;&gt;-->
+  <!--<test thread-count="5" name="Test2">-->
+    <!--<classes>-->
+      <!---->
+      <!--<class name="tests.TC02_SingleEmployeeGetTest"/>-->
+    <!--</classes>-->
+  <!--</test> &lt;!&ndash; Test &ndash;&gt;-->
+
+  <test name="API Tests">
+    <classes>
+      <class name="com.tests.TC01_AllEmpoyeesGetTest">
+      </class>
+      <class name="com.tests.TC02_SingleEmployeeGetTest">
+      </class>
+      <class name="com.tests.TC03_CreateEmpoyeeTest">
+      </class>
+      <class name="com.tests.TC04_UpdateEmpoyeeTest">
+      </class>
+      <class name="com.tests.TC05_DeleteEmpoyeeTest">
+      </class>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

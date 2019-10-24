@@ -1,0 +1,5 @@
+com/tests/TC01_AllEmpoyeesGetTest.class
+com/tests/TC04_UpdateEmpoyeeTest.class
+com/tests/TC02_SingleEmployeeGetTest.class
+com/tests/TC03_CreateEmpoyeeTest.class
+com/tests/TC05_DeleteEmpoyeeTest.class

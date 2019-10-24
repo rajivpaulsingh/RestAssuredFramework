@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Status Code :200]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Status Code :200]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/delete/60567]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Response :{"success":{"text":"successfully! deleted Records"}}]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60292]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Response :false<script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=187-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Response :[{"id":"4947","employee_name":"arun21","employee_salary":"12","employee_age":"55","profile_image":""},{"id":"4948","employee_name":"arun22","employee_salary":"31","employee_age":"89","profile_image":""},{"id":"4949","employee_name":"arun23","employee_salary":"11","employee_age":"99","profile_image":""},{"id":"4950","employee_name":"Ajay Shinde","employee_salary":"123000","employee_age":"28","profile_image":""},{"id":"4952","employee_name":"Enzo Ferrari 477120500","employee_salary":"160000","employee_age":"14","profile_image":""},{"id":"4953","employee_name":"JasonXYZ125","employee_salary":"40000","employee_age":"30","profile_image":""},{"id":"4956","employee_name":"JasonXYZ128","employee_salary":"240000","employee_age":"45","profile_image":""},{"id":"4957","employee_name":"JasonXYZ129","employee_salary":"740000","employee_age":"50","profile_image":""},{"id":"4958","employee_name":"sadas","employee_salary":"34234","employee_age":"23","profile_image":""},{"id":"4959","employee_name":"wqqwvv","employee_salary":"1000","employee_age":"27","profile_image":""},{"id":"4960","employee_name":"oipoipd","employee_salary":"1000","employee_age":"27","profile_image":""},{"id":"4962","employee_name":"dont delete my data","employee_salary":"854712","employee_age":"23","profile_image":""},{"id":"4964","employee_name":"Michaela","employee_salary":"1300","employee_age":"33","profile_image":""},{"id":"4966","employee_name":"Abhisek","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4967","employee_name":"XXXXXXXXXXxxxxOOOOOOOO","employee_salary":"346546","employee_age":"78","profile_image":""},{"id":"4968","employee_name":"LLLLLLLLLLLLLLLL","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"4971","employee_name":"Nate","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4973","employee_name":"VALEEEENDO222","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4974","employee_name":"Jack Sparrow","employee_salary":"20000","employee_age":"0","profile_image":""},{"id":"4975","employee_name":"Onur Deneme1","employee_salary":"260","employee_age":"26","profile_image":""},{"id":"4981","employee_name":"Pedro Perez1sd2lweki34","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4982","employee_name":"QTOct2420191601","employee_salary":"12345","employee_age":"30","profile_image":""},{"id":"4983","employee_name":"SampleAPItest","employee_salary":"12345","employee_age":"30","profile_image":""},{"id":"4988","employee_name":"test123","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4992","employee_name":"test1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4994","employee_name":"test54","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5001","employee_name":"Alabaka","employee_salary":"123","employee_age":"33","profile_image":""},{"id":"5002","employee_name":"testiulian","employee_salary":"123","employee_age":"0","profile_image":""},{"id":"5009","employee_name":"test234","employee_salary":"123","employee_age":"0","profile_image":""},{"id":"5010","employee_name":"eviltester","employee_salary":"999999","employee_age":"79","profile_image":""},{"id":"5020","employee_name":"Hoang 637075334381658038","employee_salary":"1000","employee_age":"28","profile_image":""},{"id":"5021","employee_name":"testradu","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5023","employee_name":"a","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5025","employee_name":"sdfasd","employee_salary":"23","employee_age":"23","profile_image":""},{"id":"5026","employee_name":"jj","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5029","employee_name":"W7GlK","employee_salary":"6","employee_age":"26","profile_image":""},{"id":"5030","employee_name":"W8Onq","employee_salary":"6","employee_age":"26","profile_image":""}]]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/create]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Response :{"name":"poaoH","salary":"6","age":"26","id":"5031"}]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/update/60567]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Response :{"name":"madhur bharadwaj","salary":"700","age":"26"}]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Status Line :HTTP/1.1 200 OK]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Status Line :HTTP/1.1 200 OK]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Content Type :text/html; charset=UTF-8]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Content Type :text/html; charset=UTF-8]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Headers :Server=nginx/1.16.0
+Date=Thu, 24 Oct 2019 18:11:38 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=663
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+PageSpeed=off
+Pragma=no-cache
+Referrer-Policy=
+Response=200
+Vary=Accept-Encoding,User-Agent,X-APP-JSON
+X-Ezoic-Cdn=Miss
+X-Middleton-Response=200
+X-Sol=pub_site
+Set-Cookie=PHPSESSID=afb8f5373c93a9d01df58c33972d3847; path=/
+Set-Cookie=ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:38 UTC
+Set-Cookie=ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=ezoab_133674=mod32-c; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=active_template::133674=pub_site.1571940698; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:38 UTC
+Set-Cookie=ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sat, 24 Oct 2020 18:11:38 GMT
+Content-Encoding=gzip
+X-Varnish=910848362
+Age=0
+Via=1.1 varnish (Varnish/6.0)
+X-VCache=Miss
+X-shard=100224246
+Accept-Ranges=bytes
+Cache-Control=no-store, no-cache, must-revalidate]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Loading Properties File]]>
+    </line>
+    <line>
+      <![CDATA[Properties File Loaded]]>
+    </line>
+    <line>
+      <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+    </line>
+    <line>
+      <![CDATA[HTTP request created]]>
+    </line>
+    <line>
+      <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+    </line>
+    <line>
+      <![CDATA[HTTP response created]]>
+    </line>
+    <line>
+      <![CDATA[Headers :Server=nginx/1.16.0
+Date=Thu, 24 Oct 2019 18:11:39 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=457
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Display=pub_site_to_orig_sol
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+PageSpeed=off
+Pragma=no-cache
+Referrer-Policy=
+Response=200
+Vary=User-Agent,Accept-Encoding,X-APP-JSON
+X-Ezoic-Cdn=Miss
+X-Middleton-Display=pub_site_to_orig_sol
+X-Middleton-Response=200
+X-Sol=pub_site
+Set-Cookie=PHPSESSID=db31fab882c42b896eb43644124ecc70; path=/
+Set-Cookie=ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:38 UTC
+Set-Cookie=ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=ezoab_133674=mod1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=active_template::133674=pub_site.1571940698; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:38 UTC
+Set-Cookie=lp_133674=http://dummy.restapiexample.com/api/v1/employee/60260; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:39 UTC
+Set-Cookie=ezovuuidtime_133674=1571940699; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:39 UTC
+Set-Cookie=ezovuuid_133674=b5a2ad62-2d5e-4787-5068-081adfe96556; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:39 UTC
+Set-Cookie=ezopvc_133674=1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:39 UTC
+Set-Cookie=ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sat, 24 Oct 2020 18:11:39 GMT
+Content-Encoding=gzip
+X-Varnish=744810428
+Age=0
+Via=1.1 varnish (Varnish/6.0)
+X-VCache=Miss
+X-shard=10022592
+Accept-Ranges=bytes
+Cache-Control=no-store, no-cache, must-revalidate]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Ended]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-10-24T18:11:29Z" name="Command line suite" finished-at="2019-10-24T18:11:39Z" duration-ms="10100">
+    <groups>
+    </groups>
+    <test started-at="2019-10-24T18:11:29Z" name="Command line test" finished-at="2019-10-24T18:11:39Z" duration-ms="10100">
+      <class name="com.tests.TC02_SingleEmployeeGetTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:31Z" name="setUp" finished-at="2019-10-24T11:11:31Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC02_SingleEmployeeGetTest.statusCodeTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="statusCodeTest()[pri:1, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:31Z" name="statusCodeTest" finished-at="2019-10-24T11:11:31Z" duration-ms="629" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Status Code :200]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- statusCodeTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:31Z" name="tearDown" finished-at="2019-10-24T11:11:31Z" duration-ms="60" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=statusCodeTest status=SUCCESS method=TC02_SingleEmployeeGetTest.statusCodeTest()[pri:1, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45] output=Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:32Z" name="setUp" finished-at="2019-10-24T11:11:32Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC02_SingleEmployeeGetTest.responseTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="responseTest()[pri:2, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:32Z" name="responseTest" finished-at="2019-10-24T11:11:33Z" duration-ms="673" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60292]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Response :false<script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=187-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- responseTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:33Z" name="tearDown" finished-at="2019-10-24T11:11:33Z" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=responseTest status=SUCCESS method=TC02_SingleEmployeeGetTest.responseTest()[pri:2, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45] output=Base URI :http://dummy.restapiexample.com/api/v1/employee/60292]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="statusLineTest()[pri:3, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:35Z" name="statusLineTest" finished-at="2019-10-24T11:11:36Z" duration-ms="695" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Status Line :HTTP/1.1 200 OK]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- statusLineTest -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:35Z" name="setUp" finished-at="2019-10-24T11:11:35Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC02_SingleEmployeeGetTest.statusLineTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:36Z" name="tearDown" finished-at="2019-10-24T11:11:36Z" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=statusLineTest status=SUCCESS method=TC02_SingleEmployeeGetTest.statusLineTest()[pri:3, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45] output=Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="contentTypeTest()[pri:4, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:37Z" name="contentTypeTest" finished-at="2019-10-24T11:11:38Z" duration-ms="694" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Content Type :text/html; charset=UTF-8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contentTypeTest -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:37Z" name="setUp" finished-at="2019-10-24T11:11:37Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC02_SingleEmployeeGetTest.contentTypeTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:38Z" name="tearDown" finished-at="2019-10-24T11:11:38Z" duration-ms="28" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=contentTypeTest status=SUCCESS method=TC02_SingleEmployeeGetTest.contentTypeTest()[pri:4, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45] output=Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:38Z" name="setUp" finished-at="2019-10-24T11:11:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC02_SingleEmployeeGetTest.headersTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="headersTest()[pri:5, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:38Z" name="headersTest" finished-at="2019-10-24T11:11:39Z" duration-ms="520" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Headers :Server=nginx/1.16.0
+Date=Thu, 24 Oct 2019 18:11:39 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=457
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Display=pub_site_to_orig_sol
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+PageSpeed=off
+Pragma=no-cache
+Referrer-Policy=
+Response=200
+Vary=User-Agent,Accept-Encoding,X-APP-JSON
+X-Ezoic-Cdn=Miss
+X-Middleton-Display=pub_site_to_orig_sol
+X-Middleton-Response=200
+X-Sol=pub_site
+Set-Cookie=PHPSESSID=db31fab882c42b896eb43644124ecc70; path=/
+Set-Cookie=ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:38 UTC
+Set-Cookie=ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=ezoab_133674=mod1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=active_template::133674=pub_site.1571940698; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:38 UTC
+Set-Cookie=lp_133674=http://dummy.restapiexample.com/api/v1/employee/60260; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:39 UTC
+Set-Cookie=ezovuuidtime_133674=1571940699; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:39 UTC
+Set-Cookie=ezovuuid_133674=b5a2ad62-2d5e-4787-5068-081adfe96556; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:39 UTC
+Set-Cookie=ezopvc_133674=1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:39 UTC
+Set-Cookie=ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sat, 24 Oct 2020 18:11:39 GMT
+Content-Encoding=gzip
+X-Varnish=744810428
+Age=0
+Via=1.1 varnish (Varnish/6.0)
+X-VCache=Miss
+X-shard=10022592
+Accept-Ranges=bytes
+Cache-Control=no-store, no-cache, must-revalidate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- headersTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45]" started-at="2019-10-24T11:11:39Z" name="tearDown" finished-at="2019-10-24T11:11:39Z" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=headersTest status=SUCCESS method=TC02_SingleEmployeeGetTest.headersTest()[pri:5, instance:com.tests.TC02_SingleEmployeeGetTest@6c130c45] output=Base URI :http://dummy.restapiexample.com/api/v1/employee/60260]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.TC02_SingleEmployeeGetTest -->
+      <class name="com.tests.TC01_AllEmpoyeesGetTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:29Z" name="setUp" finished-at="2019-10-24T11:11:29Z" duration-ms="318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC01_AllEmpoyeesGetTest.statusCodeTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="statusCodeTest()[pri:1, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:29Z" name="statusCodeTest" finished-at="2019-10-24T11:11:30Z" duration-ms="1319" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Status Code :200]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- statusCodeTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:30Z" name="tearDown" finished-at="2019-10-24T11:11:31Z" duration-ms="244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=statusCodeTest status=SUCCESS method=TC01_AllEmpoyeesGetTest.statusCodeTest()[pri:1, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7] output=Base URI :http://dummy.restapiexample.com/api/v1/employees]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:33Z" name="setUp" finished-at="2019-10-24T11:11:33Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC01_AllEmpoyeesGetTest.responseTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="responseTest()[pri:2, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:33Z" name="responseTest" finished-at="2019-10-24T11:11:33Z" duration-ms="693" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Response :[{"id":"4947","employee_name":"arun21","employee_salary":"12","employee_age":"55","profile_image":""},{"id":"4948","employee_name":"arun22","employee_salary":"31","employee_age":"89","profile_image":""},{"id":"4949","employee_name":"arun23","employee_salary":"11","employee_age":"99","profile_image":""},{"id":"4950","employee_name":"Ajay Shinde","employee_salary":"123000","employee_age":"28","profile_image":""},{"id":"4952","employee_name":"Enzo Ferrari 477120500","employee_salary":"160000","employee_age":"14","profile_image":""},{"id":"4953","employee_name":"JasonXYZ125","employee_salary":"40000","employee_age":"30","profile_image":""},{"id":"4956","employee_name":"JasonXYZ128","employee_salary":"240000","employee_age":"45","profile_image":""},{"id":"4957","employee_name":"JasonXYZ129","employee_salary":"740000","employee_age":"50","profile_image":""},{"id":"4958","employee_name":"sadas","employee_salary":"34234","employee_age":"23","profile_image":""},{"id":"4959","employee_name":"wqqwvv","employee_salary":"1000","employee_age":"27","profile_image":""},{"id":"4960","employee_name":"oipoipd","employee_salary":"1000","employee_age":"27","profile_image":""},{"id":"4962","employee_name":"dont delete my data","employee_salary":"854712","employee_age":"23","profile_image":""},{"id":"4964","employee_name":"Michaela","employee_salary":"1300","employee_age":"33","profile_image":""},{"id":"4966","employee_name":"Abhisek","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4967","employee_name":"XXXXXXXXXXxxxxOOOOOOOO","employee_salary":"346546","employee_age":"78","profile_image":""},{"id":"4968","employee_name":"LLLLLLLLLLLLLLLL","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"4971","employee_name":"Nate","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4973","employee_name":"VALEEEENDO222","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4974","employee_name":"Jack Sparrow","employee_salary":"20000","employee_age":"0","profile_image":""},{"id":"4975","employee_name":"Onur Deneme1","employee_salary":"260","employee_age":"26","profile_image":""},{"id":"4981","employee_name":"Pedro Perez1sd2lweki34","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4982","employee_name":"QTOct2420191601","employee_salary":"12345","employee_age":"30","profile_image":""},{"id":"4983","employee_name":"SampleAPItest","employee_salary":"12345","employee_age":"30","profile_image":""},{"id":"4988","employee_name":"test123","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4992","employee_name":"test1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4994","employee_name":"test54","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5001","employee_name":"Alabaka","employee_salary":"123","employee_age":"33","profile_image":""},{"id":"5002","employee_name":"testiulian","employee_salary":"123","employee_age":"0","profile_image":""},{"id":"5009","employee_name":"test234","employee_salary":"123","employee_age":"0","profile_image":""},{"id":"5010","employee_name":"eviltester","employee_salary":"999999","employee_age":"79","profile_image":""},{"id":"5020","employee_name":"Hoang 637075334381658038","employee_salary":"1000","employee_age":"28","profile_image":""},{"id":"5021","employee_name":"testradu","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5023","employee_name":"a","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5025","employee_name":"sdfasd","employee_salary":"23","employee_age":"23","profile_image":""},{"id":"5026","employee_name":"jj","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5029","employee_name":"W7GlK","employee_salary":"6","employee_age":"26","profile_image":""},{"id":"5030","employee_name":"W8Onq","employee_salary":"6","employee_age":"26","profile_image":""}]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- responseTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:33Z" name="tearDown" finished-at="2019-10-24T11:11:33Z" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=responseTest status=SUCCESS method=TC01_AllEmpoyeesGetTest.responseTest()[pri:2, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7] output=Base URI :http://dummy.restapiexample.com/api/v1/employees]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:35Z" name="setUp" finished-at="2019-10-24T11:11:35Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC01_AllEmpoyeesGetTest.statusLineTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="statusLineTest()[pri:3, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:35Z" name="statusLineTest" finished-at="2019-10-24T11:11:35Z" duration-ms="699" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Status Line :HTTP/1.1 200 OK]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- statusLineTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:35Z" name="tearDown" finished-at="2019-10-24T11:11:35Z" duration-ms="36" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=statusLineTest status=SUCCESS method=TC01_AllEmpoyeesGetTest.statusLineTest()[pri:3, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7] output=Base URI :http://dummy.restapiexample.com/api/v1/employees]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:36Z" name="setUp" finished-at="2019-10-24T11:11:36Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC01_AllEmpoyeesGetTest.contentTypeTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contentTypeTest()[pri:4, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:36Z" name="contentTypeTest" finished-at="2019-10-24T11:11:37Z" duration-ms="600" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Content Type :text/html; charset=UTF-8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contentTypeTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:37Z" name="tearDown" finished-at="2019-10-24T11:11:37Z" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=contentTypeTest status=SUCCESS method=TC01_AllEmpoyeesGetTest.contentTypeTest()[pri:4, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7] output=Base URI :http://dummy.restapiexample.com/api/v1/employees]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="headersTest()[pri:5, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:38Z" name="headersTest" finished-at="2019-10-24T11:11:38Z" duration-ms="596" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/employees]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Headers :Server=nginx/1.16.0
+Date=Thu, 24 Oct 2019 18:11:38 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=663
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+PageSpeed=off
+Pragma=no-cache
+Referrer-Policy=
+Response=200
+Vary=Accept-Encoding,User-Agent,X-APP-JSON
+X-Ezoic-Cdn=Miss
+X-Middleton-Response=200
+X-Sol=pub_site
+Set-Cookie=PHPSESSID=afb8f5373c93a9d01df58c33972d3847; path=/
+Set-Cookie=ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:38 UTC
+Set-Cookie=ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=ezoab_133674=mod32-c; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=active_template::133674=pub_site.1571940698; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:38 UTC
+Set-Cookie=ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sat, 24 Oct 2020 18:11:38 GMT
+Content-Encoding=gzip
+X-Varnish=910848362
+Age=0
+Via=1.1 varnish (Varnish/6.0)
+X-VCache=Miss
+X-shard=100224246
+Accept-Ranges=bytes
+Cache-Control=no-store, no-cache, must-revalidate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- headersTest -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:38Z" name="setUp" finished-at="2019-10-24T11:11:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC01_AllEmpoyeesGetTest.headersTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7]" started-at="2019-10-24T11:11:38Z" name="tearDown" finished-at="2019-10-24T11:11:38Z" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=headersTest status=SUCCESS method=TC01_AllEmpoyeesGetTest.headersTest()[pri:5, instance:com.tests.TC01_AllEmpoyeesGetTest@223aa2f7] output=Base URI :http://dummy.restapiexample.com/api/v1/employees]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.TC01_AllEmpoyeesGetTest -->
+      <class name="com.tests.TC04_UpdateEmpoyeeTest">
+        <test-method signature="responseTest()[pri:2, instance:com.tests.TC04_UpdateEmpoyeeTest@6d3a388c]" started-at="2019-10-24T11:11:34Z" name="responseTest" finished-at="2019-10-24T11:11:35Z" duration-ms="699" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/update/60567]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Response :{"name":"madhur bharadwaj","salary":"700","age":"26"}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- responseTest -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC04_UpdateEmpoyeeTest@6d3a388c]" started-at="2019-10-24T11:11:34Z" name="setUp" finished-at="2019-10-24T11:11:34Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC04_UpdateEmpoyeeTest.responseTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC04_UpdateEmpoyeeTest@6d3a388c]" started-at="2019-10-24T11:11:35Z" name="tearDown" finished-at="2019-10-24T11:11:35Z" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=responseTest status=SUCCESS method=TC04_UpdateEmpoyeeTest.responseTest()[pri:2, instance:com.tests.TC04_UpdateEmpoyeeTest@6d3a388c] output=Base URI :http://dummy.restapiexample.com/api/v1/update/60567]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.TC04_UpdateEmpoyeeTest -->
+      <class name="com.tests.TC03_CreateEmpoyeeTest">
+        <test-method signature="responseTest()[pri:2, instance:com.tests.TC03_CreateEmpoyeeTest@50ad3bc1]" started-at="2019-10-24T11:11:33Z" name="responseTest" finished-at="2019-10-24T11:11:34Z" duration-ms="594" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/create]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Response :{"name":"poaoH","salary":"6","age":"26","id":"5031"}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- responseTest -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC03_CreateEmpoyeeTest@50ad3bc1]" started-at="2019-10-24T11:11:33Z" name="setUp" finished-at="2019-10-24T11:11:33Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC03_CreateEmpoyeeTest.responseTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC03_CreateEmpoyeeTest@50ad3bc1]" started-at="2019-10-24T11:11:34Z" name="tearDown" finished-at="2019-10-24T11:11:34Z" duration-ms="34" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=responseTest status=SUCCESS method=TC03_CreateEmpoyeeTest.responseTest()[pri:2, instance:com.tests.TC03_CreateEmpoyeeTest@50ad3bc1] output=Base URI :http://dummy.restapiexample.com/api/v1/create]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.TC03_CreateEmpoyeeTest -->
+      <class name="com.tests.TC05_DeleteEmpoyeeTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.TC05_DeleteEmpoyeeTest@6a84a97d]" started-at="2019-10-24T11:11:31Z" name="setUp" finished-at="2019-10-24T11:11:31Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.TC05_DeleteEmpoyeeTest.responseTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Loading Properties File]]>
+            </line>
+            <line>
+              <![CDATA[Properties File Loaded]]>
+            </line>
+            <line>
+              <![CDATA[Base URL :http://dummy.restapiexample.com/api/v1/]]>
+            </line>
+            <line>
+              <![CDATA[HTTP request created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="responseTest()[pri:2, instance:com.tests.TC05_DeleteEmpoyeeTest@6a84a97d]" started-at="2019-10-24T11:11:31Z" name="responseTest" finished-at="2019-10-24T11:11:32Z" duration-ms="703" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Base URI :http://dummy.restapiexample.com/api/v1/delete/60567]]>
+            </line>
+            <line>
+              <![CDATA[HTTP response created]]>
+            </line>
+            <line>
+              <![CDATA[Response :{"success":{"text":"successfully! deleted Records"}}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- responseTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.TC05_DeleteEmpoyeeTest@6a84a97d]" started-at="2019-10-24T11:11:32Z" name="tearDown" finished-at="2019-10-24T11:11:32Z" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=responseTest status=SUCCESS method=TC05_DeleteEmpoyeeTest.responseTest()[pri:2, instance:com.tests.TC05_DeleteEmpoyeeTest@6a84a97d] output=Base URI :http://dummy.restapiexample.com/api/v1/delete/60567]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.TC05_DeleteEmpoyeeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

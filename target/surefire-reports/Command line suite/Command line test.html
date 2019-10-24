@@ -1,0 +1,330 @@
+<html>
+<head>
+<title>TestNG:  Command line test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Command line test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>13/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Oct 24 11:11:29 PDT 2019</td>
+</tr>
+<tr><td>Total time:</td><td>10 seconds (10100 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.tests.TC01_AllEmpoyeesGetTest.contentTypeTest()'><b>contentTypeTest</b><br>Test class: com.tests.TC01_AllEmpoyeesGetTest<br/>
+<a href="#Output-864766419" onClick='toggleBox("Output-864766419", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-864766419" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-864766419">
+Base URI :http://dummy.restapiexample.com/api/v1/employees<br/>
+HTTP response created<br/>
+Content Type :text/html; charset=UTF-8<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC01_AllEmpoyeesGetTest@223aa2f7</td></tr>
+<tr>
+<td title='com.tests.TC02_SingleEmployeeGetTest.contentTypeTest()'><b>contentTypeTest</b><br>Test class: com.tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-1214125015" onClick='toggleBox("Output-1214125015", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1214125015" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1214125015">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/60260<br/>
+HTTP response created<br/>
+Content Type :text/html; charset=UTF-8<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC02_SingleEmployeeGetTest@6c130c45</td></tr>
+<tr>
+<td title='com.tests.TC01_AllEmpoyeesGetTest.headersTest()'><b>headersTest</b><br>Test class: com.tests.TC01_AllEmpoyeesGetTest<br/>
+<a href="#Output-858507952" onClick='toggleBox("Output-858507952", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-858507952" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-858507952">
+Base URI :http://dummy.restapiexample.com/api/v1/employees<br/>
+HTTP response created<br/>
+Headers :Server=nginx/1.16.0
+Date=Thu, 24 Oct 2019 18:11:38 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=663
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+PageSpeed=off
+Pragma=no-cache
+Referrer-Policy=
+Response=200
+Vary=Accept-Encoding,User-Agent,X-APP-JSON
+X-Ezoic-Cdn=Miss
+X-Middleton-Response=200
+X-Sol=pub_site
+Set-Cookie=PHPSESSID=afb8f5373c93a9d01df58c33972d3847; path=/
+Set-Cookie=ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:38 UTC
+Set-Cookie=ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=ezoab_133674=mod32-c; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=active_template::133674=pub_site.1571940698; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:38 UTC
+Set-Cookie=ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sat, 24 Oct 2020 18:11:38 GMT
+Content-Encoding=gzip
+X-Varnish=910848362
+Age=0
+Via=1.1 varnish (Varnish/6.0)
+X-VCache=Miss
+X-shard=100224246
+Accept-Ranges=bytes
+Cache-Control=no-store, no-cache, must-revalidate<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC01_AllEmpoyeesGetTest@223aa2f7</td></tr>
+<tr>
+<td title='com.tests.TC02_SingleEmployeeGetTest.headersTest()'><b>headersTest</b><br>Test class: com.tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-722173530" onClick='toggleBox("Output-722173530", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-722173530" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-722173530">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/60260<br/>
+HTTP response created<br/>
+Headers :Server=nginx/1.16.0
+Date=Thu, 24 Oct 2019 18:11:39 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=457
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Display=pub_site_to_orig_sol
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+PageSpeed=off
+Pragma=no-cache
+Referrer-Policy=
+Response=200
+Vary=User-Agent,Accept-Encoding,X-APP-JSON
+X-Ezoic-Cdn=Miss
+X-Middleton-Display=pub_site_to_orig_sol
+X-Middleton-Response=200
+X-Sol=pub_site
+Set-Cookie=PHPSESSID=db31fab882c42b896eb43644124ecc70; path=/
+Set-Cookie=ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:38 UTC
+Set-Cookie=ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=ezoab_133674=mod1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:38 UTC
+Set-Cookie=active_template::133674=pub_site.1571940698; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:38 UTC
+Set-Cookie=lp_133674=http://dummy.restapiexample.com/api/v1/employee/60260; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 20:11:39 UTC
+Set-Cookie=ezovuuidtime_133674=1571940699; Path=/; Domain=restapiexample.com; Expires=Sat, 26 Oct 2019 18:11:39 UTC
+Set-Cookie=ezovuuid_133674=b5a2ad62-2d5e-4787-5068-081adfe96556; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:39 UTC
+Set-Cookie=ezopvc_133674=1; Path=/; Domain=restapiexample.com; Expires=Thu, 24 Oct 2019 18:41:39 UTC
+Set-Cookie=ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sat, 24 Oct 2020 18:11:39 GMT
+Content-Encoding=gzip
+X-Varnish=744810428
+Age=0
+Via=1.1 varnish (Varnish/6.0)
+X-VCache=Miss
+X-shard=10022592
+Accept-Ranges=bytes
+Cache-Control=no-store, no-cache, must-revalidate<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC02_SingleEmployeeGetTest@6c130c45</td></tr>
+<tr>
+<td title='com.tests.TC05_DeleteEmpoyeeTest.responseTest()'><b>responseTest</b><br>Test class: com.tests.TC05_DeleteEmpoyeeTest<br/>
+<a href="#Output-729375394" onClick='toggleBox("Output-729375394", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-729375394" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-729375394">
+Base URI :http://dummy.restapiexample.com/api/v1/delete/60567<br/>
+HTTP response created<br/>
+Response :{"success":{"text":"successfully! deleted Records"}}<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC05_DeleteEmpoyeeTest@6a84a97d</td></tr>
+<tr>
+<td title='com.tests.TC02_SingleEmployeeGetTest.responseTest()'><b>responseTest</b><br>Test class: com.tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-1483998054" onClick='toggleBox("Output-1483998054", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1483998054" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1483998054">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/60292<br/>
+HTTP response created<br/>
+Response :false<script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=187-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC02_SingleEmployeeGetTest@6c130c45</td></tr>
+<tr>
+<td title='com.tests.TC01_AllEmpoyeesGetTest.responseTest()'><b>responseTest</b><br>Test class: com.tests.TC01_AllEmpoyeesGetTest<br/>
+<a href="#Output-747378368" onClick='toggleBox("Output-747378368", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-747378368" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-747378368">
+Base URI :http://dummy.restapiexample.com/api/v1/employees<br/>
+HTTP response created<br/>
+Response :[{"id":"4947","employee_name":"arun21","employee_salary":"12","employee_age":"55","profile_image":""},{"id":"4948","employee_name":"arun22","employee_salary":"31","employee_age":"89","profile_image":""},{"id":"4949","employee_name":"arun23","employee_salary":"11","employee_age":"99","profile_image":""},{"id":"4950","employee_name":"Ajay Shinde","employee_salary":"123000","employee_age":"28","profile_image":""},{"id":"4952","employee_name":"Enzo Ferrari 477120500","employee_salary":"160000","employee_age":"14","profile_image":""},{"id":"4953","employee_name":"JasonXYZ125","employee_salary":"40000","employee_age":"30","profile_image":""},{"id":"4956","employee_name":"JasonXYZ128","employee_salary":"240000","employee_age":"45","profile_image":""},{"id":"4957","employee_name":"JasonXYZ129","employee_salary":"740000","employee_age":"50","profile_image":""},{"id":"4958","employee_name":"sadas","employee_salary":"34234","employee_age":"23","profile_image":""},{"id":"4959","employee_name":"wqqwvv","employee_salary":"1000","employee_age":"27","profile_image":""},{"id":"4960","employee_name":"oipoipd","employee_salary":"1000","employee_age":"27","profile_image":""},{"id":"4962","employee_name":"dont delete my data","employee_salary":"854712","employee_age":"23","profile_image":""},{"id":"4964","employee_name":"Michaela","employee_salary":"1300","employee_age":"33","profile_image":""},{"id":"4966","employee_name":"Abhisek","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4967","employee_name":"XXXXXXXXXXxxxxOOOOOOOO","employee_salary":"346546","employee_age":"78","profile_image":""},{"id":"4968","employee_name":"LLLLLLLLLLLLLLLL","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"4971","employee_name":"Nate","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4973","employee_name":"VALEEEENDO222","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4974","employee_name":"Jack Sparrow","employee_salary":"20000","employee_age":"0","profile_image":""},{"id":"4975","employee_name":"Onur Deneme1","employee_salary":"260","employee_age":"26","profile_image":""},{"id":"4981","employee_name":"Pedro Perez1sd2lweki34","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4982","employee_name":"QTOct2420191601","employee_salary":"12345","employee_age":"30","profile_image":""},{"id":"4983","employee_name":"SampleAPItest","employee_salary":"12345","employee_age":"30","profile_image":""},{"id":"4988","employee_name":"test123","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4992","employee_name":"test1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"4994","employee_name":"test54","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5001","employee_name":"Alabaka","employee_salary":"123","employee_age":"33","profile_image":""},{"id":"5002","employee_name":"testiulian","employee_salary":"123","employee_age":"0","profile_image":""},{"id":"5009","employee_name":"test234","employee_salary":"123","employee_age":"0","profile_image":""},{"id":"5010","employee_name":"eviltester","employee_salary":"999999","employee_age":"79","profile_image":""},{"id":"5020","employee_name":"Hoang 637075334381658038","employee_salary":"1000","employee_age":"28","profile_image":""},{"id":"5021","employee_name":"testradu","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5023","employee_name":"a","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5025","employee_name":"sdfasd","employee_salary":"23","employee_age":"23","profile_image":""},{"id":"5026","employee_name":"jj","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"5029","employee_name":"W7GlK","employee_salary":"6","employee_age":"26","profile_image":""},{"id":"5030","employee_name":"W8Onq","employee_salary":"6","employee_age":"26","profile_image":""}]<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC01_AllEmpoyeesGetTest@223aa2f7</td></tr>
+<tr>
+<td title='com.tests.TC03_CreateEmpoyeeTest.responseTest()'><b>responseTest</b><br>Test class: com.tests.TC03_CreateEmpoyeeTest<br/>
+<a href="#Output-713707020" onClick='toggleBox("Output-713707020", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-713707020" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-713707020">
+Base URI :http://dummy.restapiexample.com/api/v1/create<br/>
+HTTP response created<br/>
+Response :{"name":"poaoH","salary":"6","age":"26","id":"5031"}<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC03_CreateEmpoyeeTest@50ad3bc1</td></tr>
+<tr>
+<td title='com.tests.TC04_UpdateEmpoyeeTest.responseTest()'><b>responseTest</b><br>Test class: com.tests.TC04_UpdateEmpoyeeTest<br/>
+<a href="#Output-1997623038" onClick='toggleBox("Output-1997623038", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1997623038" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1997623038">
+Base URI :http://dummy.restapiexample.com/api/v1/update/60567<br/>
+HTTP response created<br/>
+Response :{"name":"madhur bharadwaj","salary":"700","age":"26"}<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC04_UpdateEmpoyeeTest@6d3a388c</td></tr>
+<tr>
+<td title='com.tests.TC01_AllEmpoyeesGetTest.statusCodeTest()'><b>statusCodeTest</b><br>Test class: com.tests.TC01_AllEmpoyeesGetTest<br/>
+<a href="#Output-836969741" onClick='toggleBox("Output-836969741", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-836969741" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-836969741">
+Base URI :http://dummy.restapiexample.com/api/v1/employees<br/>
+HTTP response created<br/>
+Status Code :200<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.tests.TC01_AllEmpoyeesGetTest@223aa2f7</td></tr>
+<tr>
+<td title='com.tests.TC02_SingleEmployeeGetTest.statusCodeTest()'><b>statusCodeTest</b><br>Test class: com.tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-1889457907" onClick='toggleBox("Output-1889457907", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1889457907" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1889457907">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/60260<br/>
+HTTP response created<br/>
+Status Code :200<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC02_SingleEmployeeGetTest@6c130c45</td></tr>
+<tr>
+<td title='com.tests.TC01_AllEmpoyeesGetTest.statusLineTest()'><b>statusLineTest</b><br>Test class: com.tests.TC01_AllEmpoyeesGetTest<br/>
+<a href="#Output-934636231" onClick='toggleBox("Output-934636231", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-934636231" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-934636231">
+Base URI :http://dummy.restapiexample.com/api/v1/employees<br/>
+HTTP response created<br/>
+Status Line :HTTP/1.1 200 OK<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC01_AllEmpoyeesGetTest@223aa2f7</td></tr>
+<tr>
+<td title='com.tests.TC02_SingleEmployeeGetTest.statusLineTest()'><b>statusLineTest</b><br>Test class: com.tests.TC02_SingleEmployeeGetTest<br/>
+<a href="#Output-1671596423" onClick='toggleBox("Output-1671596423", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1671596423" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1671596423">
+Base URI :http://dummy.restapiexample.com/api/v1/employee/60260<br/>
+HTTP response created<br/>
+Status Line :HTTP/1.1 200 OK<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tests.TC02_SingleEmployeeGetTest@6c130c45</td></tr>
+</table><p>
+</body>
+</html>
